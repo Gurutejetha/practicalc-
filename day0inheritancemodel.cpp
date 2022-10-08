@@ -41,7 +41,7 @@ cout<<"all the students of saveetha are being placed good with high package\n";
 };
 int main()
 {
-Students s1;
+Students s1;r
 s1.principal();
 s1.accounts();
 s1.strength();
